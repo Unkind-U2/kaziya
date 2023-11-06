@@ -893,6 +893,10 @@
     height: 600px;
   }
 
+  .menu-item{
+    font-size:18px;
+  }
+
 }
 
 @media screen and (max-width: 991px) {
