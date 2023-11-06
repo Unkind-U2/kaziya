@@ -85,7 +85,8 @@
       </div>
     </div>
     <div class="second-inner-block">
-      <div class="text-block-3"><span class="first-typography">小麦粉は一関市大東町産の<br>完全無農薬ゆきちから。</span><br><span class="second-typography">フルーツは干し柿、林檎、無花果、栗などの<br>和のフルーツ。<br>お砂糖は東北の食材と相性のいい甜菜糖。</span></div>
+      <!-- テキスト変更　11/6 -->
+      <div class="text-block-3"><span class="first-typography">小麦粉は岩手県一関市大東町産の<br>完全無農薬ゆきちから。</span><br><span class="second-typography">フルーツは干し柿、林檎、無花果、栗などの<br>和のフルーツ。<br>お砂糖は東北の食材と相性のいい甜菜糖。</span></div>
     </div>
   </section>
   <section class="fourth-section">
