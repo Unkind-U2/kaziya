@@ -81,7 +81,8 @@
   <section id="stollen" class="third-section">
     <div class="second-inner-block">
       <div class="thir-section-img-below first-below">
-        <div class="thir-section-img-above first-picture"></div>
+        <!-- remove image above 11/7 -->
+        <!-- <div class="thir-section-img-above first-picture"></div> -->
       </div>
     </div>
     <div class="second-inner-block">
@@ -96,7 +97,8 @@
     </div>
     <div class="second-inner-block">
       <div class="thir-section-img-below">
-        <div class="thir-section-img-above second-pictures"></div>
+        <!-- remove image above 11/7 -->
+        <!-- <div class="thir-section-img-above second-pictures"></div> -->
       </div>
     </div>
   </section>
