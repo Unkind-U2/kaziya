@@ -8,7 +8,7 @@
   <meta name=”keywords” content=”一関シュトーレン,クリスマス,コラボ商品”/>
   <meta content="width=device-width, initial-scale=1" name="viewport">
   <meta content="Webflow" name="generator">
-  <link rel="icon" href="<?php bloginfo('template_url');?>/images/logo.png">
+  <link rel="icon" href="<?php bloginfo('template_url');?>/images/logo-white-background.png">
   <link href="<?php bloginfo('template_url');?>/css/normalize.css" rel="stylesheet" type="text/css">
   <link href="<?php bloginfo('template_url');?>/css/webflow.css" rel="stylesheet" type="text/css">
   <link href="<?php bloginfo('template_url');?>/css/kaziya.webflow.css" rel="stylesheet" type="text/css">
