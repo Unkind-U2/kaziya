@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <title>一関シュトーレン</title>
   <meta name="description" content="極上の一関シュトーレン、クリスマスのお祝いにぴったり。株式会社かぢやとRestaurant & Catering Onのコラボ商品。贅沢な食材を農家さんから厳選。">
-  <meta name=”keywords” content=”一関シュトーレン,クリスマス,コラボ商品”/>
+  <meta name=”keywords” content=”一関シュトーレン,岩手県,クリスマス,コラボ商品”/>
   <meta content="width=device-width, initial-scale=1" name="viewport">
   <meta content="Webflow" name="generator">
   <link rel="icon" href="<?php bloginfo('template_url');?>/images/logo-white-background.png">
