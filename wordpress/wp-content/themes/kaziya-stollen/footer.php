@@ -1,13 +1,6 @@
 <section class="footer">
     <div class="footer-background-img"></div>
-    <div class="footer-columun">
-      <div class="guesthouse-link">
-        <!--20231026変更-->
-        <a href="https://www.instagram.com/kaziya1699/" target="_blank" class="f-guesthouse-link"> Café &amp; Guesthouse<br>Kaziya</a>
-        <a href="https://www.instagram.com/restaurant_on2020/" target="_blank" class="f-guesthouse-link"> Restaurant &amp; catering<br>On</a>
-      </div>
-      <!--20231026変更-->
-      <div class="company-infomation">〒029-0302<br>岩手県一関市東山町長坂字町43<br>TEL：0191-47-3377<br>MAIL：info@ichinoseki-stollen.com</div>
+    <div class="footer-columun footer-logo">
     </div>
     <div class="footer-columun footer-item">
       <div class="footer-item">
@@ -37,7 +30,7 @@
       </div>
       <!--20231023追加-->
       <div class="footer-item">
-        <a href="https://www.instagram.com/restaurant_on2020/" class="kaziya-link"> Restaurant &amp; catering<br>On</a>
+        <a href="https://www.instagram.com/cafelounge_vin_gogh/" class="kaziya-link footer"> Cafe Lounge vin gogh</a>
       </div>
       <!--20231026削除-->
       <!--<div class="div-block-14">
@@ -46,7 +39,7 @@
       </div>
     </div>-->
     <div class="copy-right">
-      <div class="copy-right-text">©2023 Kaziya 1699</div>
+      <div class="copy-right-text">©2023 Ichinoseki stollen</div>
     </div>
   </section>
   <script src="https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=651bb35f96b829a772fa3f52" type="text/javascript" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
