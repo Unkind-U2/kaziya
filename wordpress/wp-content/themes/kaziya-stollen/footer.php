@@ -21,15 +21,15 @@
       </div>
     </div>
     <div class="footer-columun footer-item">
-      <div class="footer-item">
+      <div class="footer-item sns-link">
         <!--20231026変更-->
-        <a href="https://www.instagram.com/kaziya1699/" target="_blank" class="f-guesthouse-link"> Café &amp; Guesthouse<br>Kaziya</a>
+        <a href="https://www.instagram.com/kaziya1699/" target="_blank" class="f-guesthouse-link"> Café &amp; Guesthouse Kaziya</a>
       </div>
-      <div class="footer-item">
+      <div class="footer-item sns-link">
         <a href="http://kaziya-ryokan.com/" class="f-kaziya-link">かぢや旅館</a>
       </div>
       <!--20231023追加-->
-      <div class="footer-item">
+      <div class="footer-item sns-link">
         <a href="https://www.instagram.com/cafelounge_vin_gogh/" class="kaziya-link footer"> Cafe Lounge vin gogh</a>
       </div>
       <!--20231026削除-->

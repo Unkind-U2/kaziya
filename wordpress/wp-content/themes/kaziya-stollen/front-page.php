@@ -1,6 +1,11 @@
 <?php get_header(); ?>
 <section class="under-hero-section"></section>
   <section id="top" class="hero-section">
+    <div class="top-texts">
+      <h1>一関シュトーレン</h1>
+      <p>Ichinoseki stollen</p>
+    </div>
+    
     <div class="top-catch-message">
       <div class="ja-context">クリスマスのお祝いに<br>極上のシュトーレンを<br></div>
       <div class="en-context">Enjoy the finest stollen<br> for your Christmas celebration<br></div>
@@ -31,7 +36,7 @@
       </li>
       <li id="nav" class="menu-item">
         <!--20231026変更-->
-        <a href="https://www.instagram.com/kaziya1699/" class="kaziya-link header"> Café &amp; Guesthouse<br>Kaziya</a>
+        <a href="https://www.instagram.com/kaziya1699/" class="kaziya-link header"> Café &amp; Guesthouse Kaziya</a>
       </li>
 
       <!--20231026追加-->
@@ -61,7 +66,7 @@
                   </li>
                   <li>
                     <!--20231026変更-->
-                    <a href="https://www.instagram.com/kaziya1699/" class="nav-link-2"> Café &amp; Guesthouse<br>Kaziya</a>
+                    <a href="https://www.instagram.com/kaziya1699/" class="nav-link-2"> Café &amp; Guesthouse Kaziya</a>
                   </li>
                   <li>
                     <!--20231026追加-->
