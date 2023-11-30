@@ -29,7 +29,7 @@
         <a href="#stollen" class="content-link">一関シュトーレン</a>
       </li>
       <li id="nav" class="menu-item">
-        <a href="#shop" class="shop-link">ショップ</a>
+        <a href="#shop" class="shop-link">ご予約はこちら</a>
       </li>
       <li id="nav" class="menu-item">
         <a href="https://forms.gle/RoFkBgsDaqZmZVPs5" class="contact-link">問い合わせ</a>
@@ -59,7 +59,7 @@
                     <a href="#stollen" class="nav-link-2">一関シュトーレン</a>
                   </li>
                   <li>
-                    <a href="#shop" class="nav-link-2">ショップ</a>
+                    <a href="#shop" class="nav-link-2">ご予約はこちら</a>
                   </li>
                   <li>
                     <a href="https://forms.gle/RoFkBgsDaqZmZVPs5" class="nav-link-2">問い合わせ</a>
@@ -113,7 +113,7 @@
       <div class="merchandise">一関シュトーレン</div>
       <div class="price">￥ <span class="price-core">3,300</span>(税込)</div>
       <div class="text-block-7">
-        <a href="https://forms.gle/cZSjDPii3kHaQnA37" class="inner-shop-link">ショップはこちら</a>
+        <a href="https://forms.gle/cZSjDPii3kHaQnA37" class="inner-shop-link">ご予約はこちら</a>
       </div>
     </div>
     <div class="img-back-section">
