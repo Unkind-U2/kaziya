@@ -11,7 +11,7 @@
         <a href="<?php bloginfo('url');?>/#stollen" class="f-content-link">一関シュトーレン</a>
       </div>
       <div class="footer-item">
-        <a href="<?php bloginfo('url');?>/#shop" class="f-shop-link">ショップ</a>
+        <a href="https://forms.gle/cZSjDPii3kHaQnA37" class="f-shop-link">ご予約はこちら</a>
       </div>
       <div class="footer-item">
         <a href="https://forms.gle/RoFkBgsDaqZmZVPs5" class="f-shop-link">問い合わせ</a>

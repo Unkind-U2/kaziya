@@ -29,7 +29,7 @@
         <a href="#stollen" class="content-link">一関シュトーレン</a>
       </li>
       <li id="nav" class="menu-item">
-        <a href="#shop" class="shop-link">ご予約はこちら</a>
+        <a href="https://forms.gle/cZSjDPii3kHaQnA37" class="shop-link">ご予約はこちら</a>
       </li>
       <li id="nav" class="menu-item">
         <a href="https://forms.gle/RoFkBgsDaqZmZVPs5" class="contact-link">問い合わせ</a>
@@ -59,7 +59,7 @@
                     <a href="#stollen" class="nav-link-2">一関シュトーレン</a>
                   </li>
                   <li>
-                    <a href="#shop" class="nav-link-2">ご予約はこちら</a>
+                    <a href="https://forms.gle/cZSjDPii3kHaQnA37" class="nav-link-2">ご予約はこちら</a>
                   </li>
                   <li>
                     <a href="https://forms.gle/RoFkBgsDaqZmZVPs5" class="nav-link-2">問い合わせ</a>

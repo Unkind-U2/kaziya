@@ -11,7 +11,7 @@
         <a href="#stollen" class="f-content-link">一関シュトーレン</a>
       </div>
       <div class="footer-item">
-        <a href="#shop" class="f-shop-link">ご予約はこちら</a>
+        <a href="https://forms.gle/cZSjDPii3kHaQnA37" class="f-shop-link">ご予約はこちら</a>
       </div>
       <div class="footer-item">
         <a href="https://forms.gle/RoFkBgsDaqZmZVPs5" class="f-shop-link">問い合わせ</a>
