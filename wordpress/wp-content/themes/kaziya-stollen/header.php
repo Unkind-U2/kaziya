@@ -3,12 +3,20 @@
 <html data-wf-page="651bb35f96b829a772fa3f55" data-wf-site="651bb35f96b829a772fa3f52">
 <head>
   <meta charset="utf-8">
-  <title>一関シュトーレン</title>
-  <meta name="description" content="極上の一関シュトーレン、クリスマスのお祝いにぴったり。株式会社かぢやとRestaurant & Catering Onのコラボ商品。贅沢な食材を農家さんから厳選。">
-  <meta name=”keywords” content=”一関シュトーレン,岩手県,クリスマス,コラボ商品,一関市シュトーレン”/>
+  <title>一関シュトーレン -クリスマスのお祝いに極上のシュトーレンを。</title>
+  <meta name="description" content="一関のクリスマスを楽しむなら、Café & Guesthouse KaziyaとRestaurant & Catering Onのコラボで生まれた極上の一関シュトーレンがおすすめ。贅沢な食材を一関の農家さんから厳選し、クリスマスのお祝いにぴったりのケーキです。特別なひとときをお楽しみください。">  
+  <meta name=”keywords” content=”一関シュトーレン,クリスマス,ケーキ”/>
   <meta content="width=device-width, initial-scale=1" name="viewport">
   <meta content="Webflow" name="generator">
-  <link rel="icon" href="<?php bloginfo('template_url');?>/images/logo-white-background.png">
+<!-- サムネイルの設定 -->
+  <PageMap>
+    <DataObject type="thumbnail">
+      <Attribute name="src" value="<?php bloginfo('template_url');?>/images/favicon.ico"/>
+      <Attribute name="width" value="100"/>
+      <Attribute name="height" value="130"/>
+    </DataObject>
+  </PageMap>
+  <link rel="icon" href="<?php bloginfo('template_url');?>/images/favicon.ico">
   <link href="<?php bloginfo('template_url');?>/css/normalize.css" rel="stylesheet" type="text/css">
   <link href="<?php bloginfo('template_url');?>/css/webflow.css" rel="stylesheet" type="text/css">
   <link href="<?php bloginfo('template_url');?>/css/kaziya.webflow.css" rel="stylesheet" type="text/css">

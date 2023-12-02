@@ -92,7 +92,8 @@
     </div>
     <div class="second-inner-block">
       <!-- テキスト変更　11/6 -->
-      <div class="text-block-3"><span class="first-typography">小麦粉は岩手県一関市大東町産の<br>完全無農薬ゆきちから。</span><br><span class="second-typography">フルーツは干し柿、林檎、無花果、栗などの<br>和のフルーツ。<br>お砂糖は東北の食材と相性のいい甜菜糖。</span></div>
+      <!-- <div class="text-block-3"><span class="first-typography">小麦粉は岩手県一関市大東町産の<br>完全無農薬ゆきちから。</span><br><span class="second-typography">フルーツは干し柿、林檎、無花果、栗などの<br>和のフルーツ。<br>お砂糖は東北の食材と相性のいい甜菜糖。</span></div> -->
+      <div class="text-block-3"><span class="first-typography">Café & Guesthouse KaziyaとRestaurant & Catering Onのコラボで生まれた<br>クリスマスにぴったりな極上の一関シュトーレン。</span><br><span class="second-typography">小麦粉は岩手県一関市大東町産の完全無農薬ゆきちから。フルーツは干し柿、林檎、無花果、栗などの和のフルーツ。お砂糖は東北の食材と相性のいい甜菜糖を使用しています。一関の風土と贅沢な味わいが詰まった、特別なひとときをお楽しみください。</span></div>
     </div>
   </section>
   <section class="fourth-section">

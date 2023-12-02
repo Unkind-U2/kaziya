@@ -59,8 +59,8 @@
 .ja-context {
   color: #fff;
   font-family: Noto Serif JP, sans-serif;
-  font-size: 29px;
-  line-height: 35px;
+  font-size: 26px;
+  line-height: 32px;
 }
 
 .menu-item {
@@ -79,7 +79,7 @@
 
 .third-section {
   width: 85%;
-  height: 400px;
+  height: 500px;
   margin-top: 71px;
   margin-right: 0;
   display: flex;
@@ -177,7 +177,7 @@
 }
 
 .text-block-3 {
-  height: 231px;
+  height: 331px;
   color: #3c2a21;
   letter-spacing: 2px;
   flex-direction: column;
@@ -206,7 +206,7 @@
 
 .first-typography {
   font-size: 22px;
-  line-height: 33px;
+  line-height: 35px;
 }
 
 .text-span-below {
@@ -233,8 +233,8 @@
 .en-context {
   color: #fff;
   font-family: Noto Serif JP, sans-serif;
-  font-size: 25px;
-  line-height: 35px;
+  font-size: 22px;
+  line-height: 32px;
 }
 
 .icon-embed-xxsmall {
@@ -1030,8 +1030,8 @@
   }
 
   .first-typography {
-    font-size: 30px;
-    line-height: 59px;
+    font-size: 18px;
+    line-height: 40px;
   }
 
   .text-span-below, .price {
@@ -1108,8 +1108,8 @@
   }
 
   .ja-context {
-    font-size: 25px;
-    line-height: 30px;
+    font-size: 18px;
+    line-height: 24px;
   }
 
   .menu-item {
@@ -1154,6 +1154,7 @@
 
   .first-typography {
     font-size: 15px;
+    line-height: 25px;
   }
 
   .text-span-below {
@@ -1162,8 +1163,8 @@
   }
 
   .en-context {
-    font-size: 20px;
-    line-height: 30px;
+    font-size: 14px;
+    line-height: 22px;
   }
 
   .price {
@@ -1368,7 +1369,8 @@
   }
 
   .first-typography {
-    font-size: 25px;
+    font-size: 16px;
+    line-height: 32px;
   }
 
   .text-span-below {
@@ -1555,6 +1557,10 @@
   .footer{
     height: 100px;
   }
+
+  .top-catch-message{
+    height: 170px;
+  }
 }
 
 @media screen and (max-width: 479px) {
@@ -1612,6 +1618,7 @@
 
   .first-typography {
     font-size: 17px;
+    line-height: 24px;
   }
 
   .text-span-below {
