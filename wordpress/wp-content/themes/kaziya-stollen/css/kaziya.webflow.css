@@ -1405,9 +1405,9 @@
     font-size: 11px;
   }
 
-  .footer-columun.footer-item {
+  /* .footer-columun.footer-item {
     display: none;
-  }
+  } */
 
   .text-span-above {
     font-size: 17px;
@@ -1561,7 +1561,14 @@
   .top-catch-message{
     height: 170px;
   }
-}
+
+  .tokusho{
+    display: none;
+  }
+
+  .footer-columun:nth-child(4){
+    display: none;
+  }
 
 @media screen and (max-width: 479px) {
   .top-catch-message {
@@ -1655,7 +1662,7 @@
   }
 
   .footer {
-    flex-direction: column;
+    flex-direction: row;
     align-items: center;
     padding-left: 13px;
   }
@@ -1731,5 +1738,12 @@
     margin: 0 auto;
     left: 0;
     right: 0;
+  }
+}
+
+
+@media screen and (max-width: 1900px) and (min-width: 1550px) {
+  .first-typography{
+    width: 590px;
   }
 }

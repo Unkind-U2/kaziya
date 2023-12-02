@@ -17,7 +17,7 @@
         <a href="https://forms.gle/RoFkBgsDaqZmZVPs5" class="f-shop-link">問い合わせ</a>
       </div>
       <div class="footer-item">
-        <a href="<?php bloginfo('url');?>/tokusho-hyouki" class="f-shop-link">特定商取引法に関する表記</a>
+        <a href="<?php bloginfo('url');?>/tokusho-hyouki" class="f-shop-link tokusho">特定商取引法に関する表記</a>
       </div>
     </div>
     <div class="footer-columun footer-item">
